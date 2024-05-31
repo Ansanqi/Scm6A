@@ -33,9 +33,12 @@ python Scm6A.py -I /path/to/input.csv -O /path/to/output
 # Other Details
 
 1. Input File
+   
 The input file needs to be single-cell gene expression data, with one gene symbol per row and one cell per column.
+
 The input file can be in various formats such as CSV, XLS, XLSX, TSV, or TXT.
 
 2. Output File
+   
 The final output is a CSV file containing the predictions along with relevant genomic information.
 
