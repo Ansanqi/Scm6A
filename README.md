@@ -42,3 +42,6 @@ The input file can be in various formats such as CSV, XLS, XLSX, TSV, or TXT.
    
 The final output is a CSV file containing the predictions along with relevant genomic information.
 
+
+# The latest optimized version, Scm6A.v2, is currently under development.
+
